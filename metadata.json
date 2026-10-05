@@ -1,0 +1,6 @@
+{
+  "name": "AURA Tickets — Live Events, Cinema & Concert Booking",
+  "description": "Discover and book premium tickets for cinema premieres, live concerts, theatre, and world tours with real-time interactive seat selection and digital mobile passes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
